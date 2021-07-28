@@ -32,6 +32,6 @@ Contributions can be made in browser.
 
 ## Screenshot
 
-![alt text](Notes pic.img)
+![alt text](http://url/to/Notes-pic.png)
 
 
