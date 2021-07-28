@@ -30,4 +30,8 @@ Contributions can be made in browser.
   If you have any questions about this file please feel free to contact me at michellecoder38@gmail.com.
   If you are interested in more of my work please go to my github page, my username is michellecoder38.
 
+## Screenshot
+
+![ScreenShot](Capture.png)
+
 
