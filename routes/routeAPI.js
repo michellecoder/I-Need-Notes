@@ -14,6 +14,7 @@ router.post('/notes', (req, res) => {
         if (err) throw err;
         const notes = JSON.parse(data);
         const newNote = req.body;
+        newNote.id = notes.length;
         console.log(newNote);
         notes.push(newNote);
         const jsonNotes = JSON.stringify(notes);
